@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="espace_page">20dp</dimen>
+    <dimen name="espace_section">12dp</dimen>
+</resources>
